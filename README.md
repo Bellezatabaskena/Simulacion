@@ -49,6 +49,7 @@ dando como resultado el número de caras que salió en cada lanzamiento de los d
 No requiere instalación especial puesto que se puede ejecutar en colab de google, de hecho al abrir el archivo, le redireccionará automáticamente a google colab en donde se puede ejecutar el programa con un solo click.
 
 ## Uso
+* En el codigo de Lanza dados:
 * Al principio del codigo estan las librerias:
    - EllipsisType , el cual es un contenedor de tipos de datos definidos
    - Random, genera numeros pseudo-aleatorios.
@@ -61,6 +62,10 @@ No requiere instalación especial puesto que se puede ejecutar en colab de googl
 * Hay una condicional if, la cual establece que si respuesta (res) no es igual a Si (S), entonces romperá el ciclo mediante un BREAK,
    y terminará el programa.
 * ![image](https://github.com/Bellezatabaskena/Simulacion/assets/114634159/c36f928a-a6cd-478a-85b9-28c7c3936848)
+
+  En el Archivo de Lanzar Dado2, se selecciona un numero de tiradas que es de 100 lanzadas y nos dara un output de 100 numeros aleatorios.
+* Se utiliza la libreria Random y se llama una clase DynamicClass Atribute.
+* ![image](https://github.com/Bellezatabaskena/Simulacion/assets/114634159/71c85724-b8d1-4ca7-9e9f-04c2191e664a)
 
 
 ## Contribuciones
