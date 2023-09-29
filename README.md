@@ -128,6 +128,10 @@ No requiere instalación especial puesto que se puede ejecutar en colab de googl
 *![image](https://github.com/Bellezatabaskena/Simulacion/assets/114634159/d1b60ad6-d412-4f83-8d1a-ee662877049b)
 *![image](https://github.com/Bellezatabaskena/Simulacion/assets/114634159/27922ac7-87ba-4e76-aec6-e797f85b53c6)
 
+*El segundo codigo es en lenguaje de programación R
+
+![image](https://github.com/Bellezatabaskena/Simulacion/assets/114634159/4c5a79a7-01ee-482b-b10f-6bb49a5eee50)
+
 
 
 
